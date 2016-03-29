@@ -1,7 +1,5 @@
 /*global describe:true*/
 /*global it:true*/
-/*global beforeEach:true*/
-/*global document:true*/
 
 'use strict';
 

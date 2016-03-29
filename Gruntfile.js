@@ -55,8 +55,8 @@ module.exports = function(grunt) {
     },
     browserify: {
       specs: {
-        src: ["test/tests/browserify-test.js"],
-        dest: "test/tests/d4-bundle.js",
+        src: ['test/tests/browserify-test.js'],
+        dest: 'test/lib/d4-bundle.js',
         options: {
         }
       }
